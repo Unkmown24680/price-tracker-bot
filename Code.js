@@ -1,15 +1,15 @@
 // Environment Variables
 
-const token = '18644547xxxxxxxxxxxxxxxxxxxxJLYtRmyKjI'; // bot token
-const botName = '@flipkartX_bot'; // bot username along with @
+const token = '6972223243:AAFnt4MH17FEisgC4s4svq2hcUbeOvThLmU'; // bot token
+const botName = '@Jwkajsjska_bot'; // bot username along with @
 const batchSize = 12
 const trackAfter = 5
-const patreon = [ownerid, 806378672] // gives benifits for pincode tracking feature
+const patreon = [ownerid, 6642501643] // gives benifits for pincode tracking feature
 const pincodeTrackAfter = 5
 const pincodeBatchSize = 4
 const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'; // makes up track id from these
 const sheetID = '1XXdtjqg8CBZSwJm6fM5DqJZbr9rTygURr_tCZ9YO29A' // google spreadhseet id
-var ownerid = 806378672 // owner tele id
+var ownerid = 6642501643 // owner tele id
 const star = '⭐'
 
 // exclusively mentioned here to enable forceReply function on these message
