@@ -8,7 +8,7 @@ const patreon = [ownerid, 6642501643] // gives benifits for pincode tracking fea
 const pincodeTrackAfter = 5
 const pincodeBatchSize = 4
 const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789'; // makes up track id from these
-const sheetID = '1XXdtjqg8CBZSwJm6fM5DqJZbr9rTygURr_tCZ9YO29A' // google spreadhseet id
+const sheetID = '1JLqF8oQaeZxW2Tr6VAswj4h33lyKWZnmAoX24J0OxfI' // google spreadhseet id
 var ownerid = 6642501643 // owner tele id
 const star = '⭐'
 
